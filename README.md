@@ -56,5 +56,3 @@ By using this software, you automatically agree to the above.
 <p align="center">
   <img src="https://antiscan.me/images/result/AkeZGzsBqkET.png">
 </p>
-
-
